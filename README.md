@@ -22,6 +22,7 @@ printer.print ("Hello, Interface!");
 }
 Output:
 Printing :Hello, Interface !
+
 PROGRAM:2
 interface Shape
 {
@@ -49,6 +50,7 @@ System.out.println("unknowshape");
 }}}
 Output:
 Drawing a circle
+
 Program 3:
 // Java program to demonstrate working of interface
 import java.io.*;
